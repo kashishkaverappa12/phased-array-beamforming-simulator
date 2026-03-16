@@ -1,5 +1,5 @@
 # Phased Array Beamforming Simulator
-
+![Beam Steering](results/beam_animation.gif)
 This project simulates beam steering in a phased array antenna using Python.
 
 The simulator models a Uniform Linear Array (ULA) and calculates the array factor to visualize radiation patterns and beam steering.
