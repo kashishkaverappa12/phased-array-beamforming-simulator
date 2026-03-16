@@ -1,5 +1,6 @@
 # Phased Array Beamforming Simulator
-![Beam Steering](results/beam_animation.gif)
+![Beam Animation](beamforming-array-simulation/results/beam_animation.gif)
+
 This project simulates beam steering in a phased array antenna using Python.
 
 The simulator models a Uniform Linear Array (ULA) and calculates the array factor to visualize radiation patterns and beam steering.
@@ -34,20 +35,19 @@ Radiation Pattern Analysis
 ## Project Outputs
 
 ### Radiation Pattern
-![Radiation Pattern](results/beam_pattern.png)
+![Radiation Pattern](beamforming-array-simulation/results/beam_pattern.png)
 
 ### Polar Radiation Pattern
-![Polar Plot](results/polar_pattern.png)
+![Polar Plot](beamforming-array-simulation/results/polar_pattern.png)
 
 ### Beamforming Heatmap
-![Heatmap](results/heatmap.png)
+![Heatmap](beamforming-array-simulation/results/heatmap.png)
 
 ### 3D Radiation Pattern
-![3D Pattern](results/radiation_3d.png)
+![3D Pattern](beamforming-array-simulation/results/radiation_3d.png)
 
 ### Beam Steering Animation
-![Animation](results/beam_animation.gif)
-
+![Beam Animation](beamforming-array-simulation/results/beam_animation.gif)
 
 ## How to Run
 
